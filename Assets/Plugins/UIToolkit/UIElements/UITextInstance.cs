@@ -164,7 +164,12 @@ public class UITextInstance : UIObject, IPositionable
 		
 		textSprites.Clear();
 	}
-	
+
+
+    public void WoopWoop()
+    {
+        //test 
+    }
 
 	/// <summary>
 	/// Sets the color for the text.  All colors will be changed.
